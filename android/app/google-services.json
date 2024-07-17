@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "588649790191",
+    "project_id": "push-notification-e32a3",
+    "storage_bucket": "push-notification-e32a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588649790191:android:1ed46bb39f62f00a49b91a",
+        "android_client_info": {
+          "package_name": "com.studentportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588649790191-npitlm18m8spicmh2ccq9a6d5liledd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDklMk81ddeh1kqGBN9mjWOwXegxUDJ8c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588649790191-npitlm18m8spicmh2ccq9a6d5liledd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588649790191:android:588c80a90d4b9d5349b91a",
+        "android_client_info": {
+          "package_name": "tz.test.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588649790191-npitlm18m8spicmh2ccq9a6d5liledd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDklMk81ddeh1kqGBN9mjWOwXegxUDJ8c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588649790191-npitlm18m8spicmh2ccq9a6d5liledd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

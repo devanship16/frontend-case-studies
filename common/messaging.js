@@ -1,0 +1,11 @@
+import React, { useEffect } from 'react';
+import { Alert } from 'react-native';
+import messaging from '@react-native-firebase/messaging';
+function App() {
+  useEffect(() => {
+    const unsubscribe = messaging().onMessage(async remoteMessage => {
+      console.log("remoteMessage321=>"+JSON.stringify(remoteMessage));
+      // Alert.alert('A new FCM message arrived!', JSON.stringify(remoteMessage));
+    });    return unsubscribe;
+  }, []);
+}

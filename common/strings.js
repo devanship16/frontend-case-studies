@@ -1,0 +1,9 @@
+export const APP_NAME = 'Evolve College';
+export const PRIVACY_POLICY = 'Privacy Policy Test Data';
+export const TERMS_OF_SERVICE = 'Terms of service Test Data';
+export const EMAIL_GLOBAL = 'Contact  us on\nevovle@evolvecollege.com';
+export const EMAIL_TO = 'evovle@evolvecollege.com';
+export const PHONE_NO_GLOBAL = '765-336-0989';
+export const ADDRESS_GLOBAL = '90736 California Long beach';
+export const LATE_GLOBAL = '23.0225,72.5714';
+export const LABEL_GLOBAL = 'Custom Label';
